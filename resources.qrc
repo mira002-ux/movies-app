@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/country.jpg</file>
+        <file>images/the_devils_hacksaw.jpg</file>
+        <file>images/logo.png</file>
+        <file>images/heart_empty.png</file>
+        <file>images/heart_filled.png</file>
+        <file>images/watchlist_add.png</file>
+        <file>images/watchlist_added.png</file>
+        <file>images/star.png</file>
+        <file>images/placeholder.jpg</file>
+        <file>images/hold_me_close.jpg</file>
+        <file>images/good_bad_ugly.jpg</file>
+        <file>images/refresh.png</file>
+    </qresource>
+</RCC>
